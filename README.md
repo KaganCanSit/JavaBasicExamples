@@ -5,7 +5,7 @@
 
 <hr>
 <div class="body">
-  Basic Starting Source: <a href="https://github.com/KaganCanSit/JavaBasicExamples/blob/main/sources/Java%20Programalama%20Ders%20Notlar%C4%B1.pdf">Notes of my teacher Emin Borandağ</a>
+  Basic Starting Source: <a href="https://github.com/KaganCanSit/JavaBasicExamples/blob/main/sources/Java%20Programalama%20Ders%20Notlar%C4%B1.pdf">Notes Of My Teacher Emin Borandağ - Start Here Java</a>
   <hr>
 
   <h3>NOTES</h3>
