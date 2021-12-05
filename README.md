@@ -5,13 +5,17 @@
 
 <hr>
 <div class="body">
-  Basic Starting Source: Notes of my teacher Emin Borandağ >> <a href="https://github.com/KaganCanSit/JavaBasicExamples/blob/main/sources/Java%20Programalama%20Ders%20Notlar%C4%B1.pdf">Source</a>
+  Basic Starting Source: <a href="https://github.com/KaganCanSit/JavaBasicExamples/blob/main/sources/Java%20Programalama%20Ders%20Notlar%C4%B1.pdf">Notes of my teacher Emin Borandağ</a>
   <hr>
 
   <h3>NOTES</h3>
   <ul>
+    <li>Java Eclipse</li>
     <li>Kodlar yazarken ve gerçeklenirken Java Eclipse kullanıldı. Fakat başka IDE'lerde rahatlıkla kullanilabilir. (IntelliJ gibi.)</li>
     <li>Eclipse IDE açık kaynak bir yazılım olmakla birlikte Eclipse Vakfı tarafindan desteklenmektedir.</li>
+    <li>Eclipse IDE ek yazılım bileşenleri ile genişletilebilir. Bu bileşenler <b>plug-in</b> adı verilmektedir.</li>
+    <li>Eclipse'nin çalışabilmesi için Java Runtime yüklü olmalıdır. Bunun yanı sıra en az Java 5 sürümü gerektirmektedir.</li>
+    <li>Temel kurulum aşamaları için yukarıdaki "Notes of my teacher Emin Borandağ" linkinden fayadalanabilirsin.</li>
   </ul>
 
 </div>
