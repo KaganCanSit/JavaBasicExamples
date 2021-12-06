@@ -1,4 +1,4 @@
-package Arrays_20;
+package Arrays_Sample20;
 
 public class Array_For_ForEach {
 

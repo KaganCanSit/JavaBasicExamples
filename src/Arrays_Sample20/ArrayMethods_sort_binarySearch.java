@@ -1,4 +1,4 @@
-package Arrays_20;
+package Arrays_Sample20;
 
 import java.util.Arrays; // sort ve binarySearch icin kutuphaneyi import ediyoruz.
 
