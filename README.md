@@ -9,6 +9,7 @@
   <hr>
 
   <h3>NOTES</h3>
+  <!--
   <ul>
     <li>Java Eclipse</li>
     <li>Kodlar yazılırken ve gerçeklenirken Java Eclipse kullanıldı. Fakat başka IDE'lerde rahatlıkla kullanilabilir. (IntelliJ gibi.)</li>
@@ -17,7 +18,7 @@
     <li>Eclipse'nin çalışabilmesi için Java Runtime yüklü olmalıdır. Bunun yanı sıra en az Java 5 sürümü gerektirmektedir.</li>
     <li>Temel kurulum aşamaları için yukarıdaki "Notes of my teacher Emin Borandağ" linkinden fayadalanabilirsin.</li>
   </ul>
-
+-->
 </div>
 
 <div class="footer">
