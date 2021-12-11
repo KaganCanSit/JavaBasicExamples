@@ -4,11 +4,12 @@ public class HelloWorld_Sample00 {
 
 	public static void main(String[] args) {
 		/*
-		 	Programcilarin gelenegi! Hello World!
-			sys + ctrl + bosluk kisayolu bizlere system.out.println verecektir. 
-			Bu komut ile herhangi bir string veya char degeri konsol uzerine yazabilirsiniz.
+			Programcilarin gelenegi olan "Hello World!" kalibini console'a yazdiriyoruz.
+			Tüyo: sys + ctrl + bosluk kisayolu bizlere system.out.println verecektir. 
+			Print, printf, println ile sayisal veya karaktere dayali icerikleri cosole'a yazdirabiliriz.
 		*/
 		System.out.println("Hello World!");
+		System.out.println("Name:Kagan Can" + "\nSurname:Sit"+ "\nAge:" + 20);
 	}
 
 }

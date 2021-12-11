@@ -25,7 +25,7 @@ public class MathMethods {
 	
 		//Math.round() > Verilen fonksiyonu bulundugu konuma gore yukari veya asagi yuvarlar.
 		double round1 = 100.675;
-		double round2 = 100.400;
+		double round2 = 100.500;
 		System.out.println("Round: " + Math.round(round1));
 		System.out.println("Round: " + Math.round(round2) + "\n");
 		

@@ -26,6 +26,7 @@ public class While_DoWhile_For {
 		for(int i=10; i<20; i++)
 			System.out.println("Value of x: " + i);
 		
+		//Onemli!
 		//Java 5 ile gelen - Gelistirilmis For Dongusu(Enhanced For Loop)
 		int[] numbers = {10,20,30,40,50};
 		for(int d: numbers)

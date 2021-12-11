@@ -8,23 +8,23 @@ public class FileOperations {
 		try
 		{
 			char[] data = {'a', 'b', 'c', 'd', 'e'};
-			OutputStream outfile = new FileOutputStream("C:/test.txt");
+			OutputStream outfile = new FileOutputStream("C:/Deneme/test.txt"); //outfile ile yazma
 			for(int x=0; x<data.length; x++)
-				outfile.write(data[x]);
+				outfile.write(data[x]);			//data ogesini indis sirasiyla birlikte acmis oldugumuz dosyaya yaziyoruz.
 
-			outfile.close();
+			outfile.close(); // Islem sonunda dosyayi kapatiyoruz. Islemi sonlandiriyoruz.
 		
-			InputStream infile = new FileInputStream("C:/test.txt");
+			InputStream infile = new FileInputStream("C:/Deneme/test.txt"); //infile ile okuma
 			int size = infile.available();
 			
 			for(int i=0; i<size; i++)
-				System.out.println((char) infile.read() + " ");
+				System.out.println((char) infile.read() + " "); //char olarak file icerisinden okumus oldugumuz degerleri console'a yaziyoruz.
 
-			infile.close();
+			infile.close(); // Islem sonunda dosyayi kapatiyoruz. Islemi sonlandiriyoruz.
 		}
-		catch(IOException e)
+		catch(IOException e)	//Dosya acilamaz vb. durum olusursa hata mesaji donuyor.
 		{
-			System.out.println("Exception");
+			System.out.println("File Operations Fail");
 		}
 	}
 }
