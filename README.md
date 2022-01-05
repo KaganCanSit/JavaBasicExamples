@@ -29,5 +29,5 @@
 </div>
 -->
 <div class="footer">
-<p> Yazar: Kağan Can Şit<br>İlk Kapsamlı İçerik: 10 Aralık 2021 - Son Güncelleme: 10 Aralık 2021</p>
+<p> Yazar: Kağan Can Şit<br>İlk Kapsamlı İçerik: 10 Aralık 2021 - Son Güncelleme: 5 Ocak 2021</p>
 </div>
