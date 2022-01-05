@@ -4,10 +4,12 @@
  * https://medium.com/@nujinaytek/java-algoritma-sorular%C4%B1-ve-%C3%A7%C3%B6z%C3%BCmleri-eclipse-%C3%BCzerinden-fa1d5cf3afc2
  */
 package a_BasicQuestions;
+
+import java.lang.reflect.Array;
 import java.util.*;
 
-public class OddEven {
-	public static void Main(String args[])
+public class OddEvenSample {
+	public static void main(String args[])
 	{
 		int [] Array = new int[100];
 		for(int i=0;i<100;i++)
@@ -24,9 +26,9 @@ public class OddEven {
 		for(int a:x)
 		{
 			if(a%2==0)
-				System.out.println(x + " Degeri ciftdir.");
+				System.out.println(a + " Degeri ciftdir.");
 			else
-				System.out.println(x + " Degeri tektir.");
+				System.out.println(a + " Degeri tektir.");
 		}
 	}
 }

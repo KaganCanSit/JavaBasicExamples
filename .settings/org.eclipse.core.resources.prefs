@@ -1,6 +1,14 @@
 eclipse.preferences.version=1
+encoding//src/a_BasicQuestions/Array.java=UTF-8
 encoding//src/a_BasicQuestions/BasicCalculator.java=UTF-8
+encoding//src/a_BasicQuestions/CelciusFahrenheit.java=UTF-8
 encoding//src/a_BasicQuestions/CheckPass.java=UTF-8
+encoding//src/a_BasicQuestions/EnteredZero.java=UTF-8
 encoding//src/a_BasicQuestions/Ladder.java=UTF-8
+encoding//src/a_BasicQuestions/NumberTriangle.java=UTF-8
 encoding//src/a_BasicQuestions/OddEven.java=UTF-8
+encoding//src/a_BasicQuestions/OddEvenSample.java=UTF-8
+encoding//src/a_BasicQuestions/PolindromNumber.java=UTF-8
+encoding//src/a_BasicQuestions/PrimeNumber.java=UTF-8
+encoding//src/a_BasicQuestions/StarDraw.java=UTF-8
 encoding//src/a_BasicQuestions/TakeAverage.java=UTF-8
